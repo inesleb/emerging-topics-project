@@ -1,0 +1,403 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Europe,Historical,Oil displacement Mlge,Cars,EV,2010,Million litres gasoline equivalent,5.300000190734863
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2010,Million barrels per day,9.100000170292333e-05
+Europe,Historical,EV sales,Cars,BEV,2010,Vehicles,1700.0
+Europe,Historical,EV sales,Cars,FCEV,2010,Vehicles,11.0
+Europe,Historical,EV sales,Cars,PHEV,2010,Vehicles,110.0
+Europe,Historical,EV stock,Cars,BEV,2010,Vehicles,10000.0
+Europe,Historical,EV stock,Cars,FCEV,2010,Vehicles,26.0
+Europe,Historical,EV stock,Cars,PHEV,2010,Vehicles,19000.0
+Europe,Historical,EV sales share,Cars,EV,2010,percent,0.012000000104308128
+Europe,Historical,EV stock share,Cars,EV,2010,percent,0.010999999940395355
+Europe,Historical,EV sales,Cars,EV,2010,Vehicles,1800.0
+Europe,Historical,EV stock,Cars,EV,2010,Vehicles,29000.0
+Europe,Historical,Electricity demand,Cars,EV,2010,GWh,91.0
+Europe,Historical,Electricity demand,Cars,EV,2011,GWh,250.0
+Europe,Historical,EV stock,Cars,EV,2011,Vehicles,48000.0
+Europe,Historical,EV sales,Cars,EV,2011,Vehicles,11000.0
+Europe,Historical,EV stock share,Cars,EV,2011,percent,0.017999999225139618
+Europe,Historical,EV sales share,Cars,EV,2011,percent,0.07400000095367432
+Europe,Historical,EV stock,Cars,PHEV,2011,Vehicles,28000.0
+Europe,Historical,EV stock,Cars,FCEV,2011,Vehicles,26.0
+Europe,Historical,EV stock,Cars,BEV,2011,Vehicles,20000.0
+Europe,Historical,EV sales,Cars,PHEV,2011,Vehicles,410.0
+Europe,Historical,EV sales,Cars,BEV,2011,Vehicles,11000.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2011,Million barrels per day,0.0003100000030826777
+Europe,Historical,Oil displacement Mlge,Cars,EV,2011,Million litres gasoline equivalent,18.0
+Europe,Historical,Oil displacement Mlge,Cars,EV,2012,Million litres gasoline equivalent,42.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2012,Million barrels per day,0.0007200000109151006
+Europe,Historical,EV sales,Cars,BEV,2012,Vehicles,19000.0
+Europe,Historical,EV sales,Cars,PHEV,2012,Vehicles,9200.0
+Europe,Historical,EV stock,Cars,BEV,2012,Vehicles,37000.0
+Europe,Historical,EV stock,Cars,FCEV,2012,Vehicles,26.0
+Europe,Historical,EV stock,Cars,PHEV,2012,Vehicles,39000.0
+Europe,Historical,EV sales share,Cars,EV,2012,percent,0.20000000298023224
+Europe,Historical,EV stock share,Cars,EV,2012,percent,0.028999999165534973
+Europe,Historical,EV sales,Cars,EV,2012,Vehicles,28000.0
+Europe,Historical,EV stock,Cars,EV,2012,Vehicles,76000.0
+Europe,Historical,Electricity demand,Cars,EV,2012,GWh,290.0
+Europe,Historical,Electricity demand,Cars,EV,2013,GWh,530.0
+Europe,Historical,EV stock,Cars,EV,2013,Vehicles,130000.0
+Europe,Historical,EV sales,Cars,EV,2013,Vehicles,59000.0
+Europe,Historical,EV stock share,Cars,EV,2013,percent,0.04899999871850014
+Europe,Historical,EV sales share,Cars,EV,2013,percent,0.4300000071525574
+Europe,Historical,EV stock,Cars,PHEV,2013,Vehicles,64000.0
+Europe,Historical,EV stock,Cars,FCEV,2013,Vehicles,27.0
+Europe,Historical,EV stock,Cars,BEV,2013,Vehicles,67000.0
+Europe,Historical,EV sales,Cars,PHEV,2013,Vehicles,26000.0
+Europe,Historical,EV sales,Cars,BEV,2013,Vehicles,33000.0
+Europe,Historical,EV sales,Cars,FCEV,2013,Vehicles,19.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2013,Million barrels per day,0.001500000013038516
+Europe,Historical,Oil displacement Mlge,Cars,EV,2013,Million litres gasoline equivalent,89.0
+Europe,Historical,Oil displacement Mlge,Cars,EV,2014,Million litres gasoline equivalent,200.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2014,Million barrels per day,0.0034000000450760126
+Europe,Historical,EV sales,Cars,FCEV,2014,Vehicles,27.0
+Europe,Historical,EV sales,Cars,BEV,2014,Vehicles,62000.0
+Europe,Historical,EV sales,Cars,PHEV,2014,Vehicles,34000.0
+Europe,Historical,EV stock,Cars,BEV,2014,Vehicles,120000.0
+Europe,Historical,EV stock,Cars,FCEV,2014,Vehicles,34.0
+Europe,Historical,EV stock,Cars,PHEV,2014,Vehicles,98000.0
+Europe,Historical,EV sales share,Cars,EV,2014,percent,0.6800000071525574
+Europe,Historical,EV stock share,Cars,EV,2014,percent,0.0820000022649765
+Europe,Historical,EV sales,Cars,EV,2014,Vehicles,96000.0
+Europe,Historical,EV stock,Cars,EV,2014,Vehicles,220000.0
+Europe,Historical,Electricity demand,Cars,EV,2014,GWh,740.0
+Europe,Historical,Electricity demand,Cars,EV,2015,GWh,1000.0
+Europe,Historical,EV stock,Cars,EV,2015,Vehicles,400000.0
+Europe,Historical,EV sales,Cars,EV,2015,Vehicles,160000.0
+Europe,Historical,EV stock share,Cars,EV,2015,percent,0.15000000596046448
+Europe,Historical,EV sales share,Cars,EV,2015,percent,1.0
+Europe,Historical,EV stock,Cars,PHEV,2015,Vehicles,200000.0
+Europe,Historical,EV stock,Cars,FCEV,2015,Vehicles,250.0
+Europe,Historical,EV stock,Cars,BEV,2015,Vehicles,210000.0
+Europe,Historical,EV sales,Cars,PHEV,2015,Vehicles,73000.0
+Europe,Historical,EV sales,Cars,BEV,2015,Vehicles,89000.0
+Europe,Historical,EV sales,Cars,FCEV,2015,Vehicles,200.0
+Europe,Historical,Battery deployment,Cars,EV,2015,GWh,3.799999952316284
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2015,Million barrels per day,0.00279999990016222
+Europe,Historical,Oil displacement Mlge,Cars,EV,2015,Million litres gasoline equivalent,160.0
+Europe,Historical,Oil displacement Mlge,Cars,EV,2016,Million litres gasoline equivalent,480.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2016,Million barrels per day,0.008299999870359898
+Europe,Historical,Battery deployment,Cars,EV,2016,GWh,4.699999809265137
+Europe,Historical,EV sales,Cars,FCEV,2016,Vehicles,230.0
+Europe,Historical,EV sales,Cars,BEV,2016,Vehicles,93000.0
+Europe,Historical,EV sales,Cars,PHEV,2016,Vehicles,140000.0
+Europe,Historical,EV stock,Cars,BEV,2016,Vehicles,290000.0
+Europe,Historical,EV stock,Cars,FCEV,2016,Vehicles,390.0
+Europe,Historical,EV stock,Cars,PHEV,2016,Vehicles,310000.0
+Europe,Historical,EV sales share,Cars,EV,2016,percent,1.399999976158142
+Europe,Historical,EV stock share,Cars,EV,2016,percent,0.2199999988079071
+Europe,Historical,EV sales,Cars,EV,2016,Vehicles,230000.0
+Europe,Historical,EV stock,Cars,EV,2016,Vehicles,600000.0
+Europe,Historical,Electricity demand,Cars,EV,2016,GWh,1400.0
+Europe,Historical,Electricity demand,Cars,EV,2017,GWh,1900.0
+Europe,Historical,EV stock,Cars,EV,2017,Vehicles,870000.0
+Europe,Historical,EV sales,Cars,EV,2017,Vehicles,310000.0
+Europe,Historical,EV stock share,Cars,EV,2017,percent,0.30000001192092896
+Europe,Historical,EV sales share,Cars,EV,2017,percent,1.7999999523162842
+Europe,Historical,EV stock,Cars,PHEV,2017,Vehicles,450000.0
+Europe,Historical,EV stock,Cars,FCEV,2017,Vehicles,890.0
+Europe,Historical,EV stock,Cars,BEV,2017,Vehicles,420000.0
+Europe,Historical,EV sales,Cars,PHEV,2017,Vehicles,180000.0
+Europe,Historical,EV sales,Cars,BEV,2017,Vehicles,140000.0
+Europe,Historical,EV sales,Cars,FCEV,2017,Vehicles,330.0
+Europe,Historical,Battery deployment,Cars,EV,2017,GWh,7.400000095367432
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2017,Million barrels per day,0.013000000268220901
+Europe,Historical,Oil displacement Mlge,Cars,EV,2017,Million litres gasoline equivalent,760.0
+Europe,Historical,Oil displacement Mlge,Cars,EV,2018,Million litres gasoline equivalent,1400.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2018,Million barrels per day,0.024000000208616257
+Europe,Historical,Battery deployment,Cars,EV,2018,GWh,11.0
+Europe,Historical,EV sales,Cars,FCEV,2018,Vehicles,280.0
+Europe,Historical,EV sales,Cars,BEV,2018,Vehicles,200000.0
+Europe,Historical,EV sales,Cars,PHEV,2018,Vehicles,190000.0
+Europe,Historical,EV stock,Cars,BEV,2018,Vehicles,610000.0
+Europe,Historical,EV stock,Cars,FCEV,2018,Vehicles,1100.0
+Europe,Historical,EV stock,Cars,PHEV,2018,Vehicles,630000.0
+Europe,Historical,EV sales share,Cars,EV,2018,percent,2.299999952316284
+Europe,Historical,EV stock share,Cars,EV,2018,percent,0.4300000071525574
+Europe,Historical,EV sales,Cars,EV,2018,Vehicles,400000.0
+Europe,Historical,EV stock,Cars,EV,2018,Vehicles,1200000.0
+Europe,Historical,Electricity demand,Cars,EV,2018,GWh,2900.0
+Europe,Historical,Electricity demand,Cars,EV,2019,GWh,4000.0
+Europe,Historical,EV stock,Cars,EV,2019,Vehicles,1800000.0
+Europe,Historical,EV sales,Cars,EV,2019,Vehicles,570000.0
+Europe,Historical,EV stock share,Cars,EV,2019,percent,0.5899999737739563
+Europe,Historical,EV sales share,Cars,EV,2019,percent,3.4000000953674316
+Europe,Historical,EV stock,Cars,PHEV,2019,Vehicles,800000.0
+Europe,Historical,EV stock,Cars,FCEV,2019,Vehicles,1800.0
+Europe,Historical,EV stock,Cars,BEV,2019,Vehicles,950000.0
+Europe,Historical,EV sales,Cars,PHEV,2019,Vehicles,210000.0
+Europe,Historical,EV sales,Cars,BEV,2019,Vehicles,360000.0
+Europe,Historical,EV sales,Cars,FCEV,2019,Vehicles,600.0
+Europe,Historical,Battery deployment,Cars,EV,2019,GWh,23.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2019,Million barrels per day,0.03400000184774399
+Europe,Historical,Oil displacement Mlge,Cars,EV,2019,Million litres gasoline equivalent,2000.0
+Europe,Historical,Oil displacement Mlge,Cars,EV,2020,Million litres gasoline equivalent,2800.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2020,Million barrels per day,0.04899999871850014
+Europe,Historical,Battery deployment,Cars,EV,2020,GWh,51.0
+Europe,Historical,EV sales,Cars,FCEV,2020,Vehicles,890.0
+Europe,Historical,EV sales,Cars,BEV,2020,Vehicles,750000.0
+Europe,Historical,EV sales,Cars,PHEV,2020,Vehicles,630000.0
+Europe,Historical,EV stock,Cars,BEV,2020,Vehicles,1700000.0
+Europe,Historical,EV stock,Cars,FCEV,2020,Vehicles,2700.0
+Europe,Historical,EV stock,Cars,PHEV,2020,Vehicles,1400000.0
+Europe,Historical,EV sales share,Cars,EV,2020,percent,10.0
+Europe,Historical,EV stock share,Cars,EV,2020,percent,1.0
+Europe,Historical,EV sales,Cars,EV,2020,Vehicles,1400000.0
+Europe,Historical,EV stock,Cars,EV,2020,Vehicles,3100000.0
+Europe,Historical,Electricity demand,Cars,EV,2020,GWh,5300.0
+Europe,Historical,Electricity demand,Cars,EV,2021,GWh,9600.0
+Europe,Historical,EV stock,Cars,EV,2021,Vehicles,5400000.0
+Europe,Historical,EV sales,Cars,EV,2021,Vehicles,2300000.0
+Europe,Historical,EV stock share,Cars,EV,2021,percent,1.7999999523162842
+Europe,Historical,EV sales share,Cars,EV,2021,percent,17.0
+Europe,Historical,EV stock,Cars,PHEV,2021,Vehicles,2500000.0
+Europe,Historical,EV stock,Cars,FCEV,2021,Vehicles,3600.0
+Europe,Historical,EV stock,Cars,BEV,2021,Vehicles,2900000.0
+Europe,Historical,EV sales,Cars,PHEV,2021,Vehicles,1100000.0
+Europe,Historical,EV sales,Cars,BEV,2021,Vehicles,1200000.0
+Europe,Historical,EV sales,Cars,FCEV,2021,Vehicles,920.0
+Europe,Historical,Battery deployment,Cars,EV,2021,GWh,87.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2021,Million barrels per day,0.08799999952316284
+Europe,Historical,Oil displacement Mlge,Cars,EV,2021,Million litres gasoline equivalent,5100.0
+Europe,Historical,Oil displacement Mlge,Cars,EV,2022,Million litres gasoline equivalent,7600.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2022,Million barrels per day,0.12999999523162842
+Europe,Historical,Battery deployment,Cars,EV,2022,GWh,120.0
+Europe,Historical,EV sales,Cars,FCEV,2022,Vehicles,1300.0
+Europe,Historical,EV sales,Cars,BEV,2022,Vehicles,1600000.0
+Europe,Historical,EV sales,Cars,PHEV,2022,Vehicles,1000000.0
+Europe,Historical,EV stock,Cars,BEV,2022,Vehicles,4400000.0
+Europe,Historical,EV stock,Cars,FCEV,2022,Vehicles,4700.0
+Europe,Historical,EV stock,Cars,PHEV,2022,Vehicles,3400000.0
+Europe,Historical,EV sales share,Cars,EV,2022,percent,21.0
+Europe,Historical,EV stock share,Cars,EV,2022,percent,2.5
+Europe,Historical,EV sales,Cars,EV,2022,Vehicles,2700000.0
+Europe,Historical,EV stock,Cars,EV,2022,Vehicles,7800000.0
+Europe,Historical,Electricity demand,Cars,EV,2022,GWh,15000.0
+Europe,Historical,Electricity demand,Cars,EV,2023,GWh,22000.0
+Europe,Historical,EV stock,Cars,EV,2023,Vehicles,11000000.0
+Europe,Historical,EV sales,Cars,EV,2023,Vehicles,3200000.0
+Europe,Historical,EV stock share,Cars,EV,2023,percent,3.5999999046325684
+Europe,Historical,EV sales share,Cars,EV,2023,percent,22.0
+Europe,Historical,EV stock,Cars,PHEV,2023,Vehicles,4500000.0
+Europe,Historical,EV stock,Cars,FCEV,2023,Vehicles,5100.0
+Europe,Historical,EV stock,Cars,BEV,2023,Vehicles,6700000.0
+Europe,Historical,EV sales,Cars,PHEV,2023,Vehicles,1000000.0
+Europe,Historical,EV sales,Cars,BEV,2023,Vehicles,2200000.0
+Europe,Historical,EV sales,Cars,FCEV,2023,Vehicles,870.0
+Europe,Historical,Battery deployment,Cars,EV,2023,GWh,160.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2023,Million barrels per day,0.18000000715255737
+Europe,Historical,Oil displacement Mlge,Cars,EV,2023,Million litres gasoline equivalent,11000.0
+Europe,Historical,Oil displacement Mlge,Cars,EV,2024,Million litres gasoline equivalent,14000.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2024,Million barrels per day,0.23999999463558197
+Europe,Historical,Battery deployment,Cars,EV,2024,GWh,170.0
+Europe,Historical,EV sales,Cars,FCEV,2024,Vehicles,1100.0
+Europe,Historical,EV sales,Cars,BEV,2024,Vehicles,2200000.0
+Europe,Historical,EV sales,Cars,PHEV,2024,Vehicles,990000.0
+Europe,Historical,EV stock,Cars,BEV,2024,Vehicles,8400000.0
+Europe,Historical,EV stock,Cars,FCEV,2024,Vehicles,5300.0
+Europe,Historical,EV stock,Cars,PHEV,2024,Vehicles,5100000.0
+Europe,Historical,EV sales share,Cars,EV,2024,percent,21.0
+Europe,Historical,EV stock share,Cars,EV,2024,percent,4.400000095367432
+Europe,Historical,EV sales,Cars,EV,2024,Vehicles,3200000.0
+Europe,Historical,EV stock,Cars,EV,2024,Vehicles,13000000.0
+Europe,Historical,Electricity demand,Cars,EV,2024,GWh,26000.0
+Europe,Historical,Electricity demand,Cars,EV,2025,GWh,47000.0
+Europe,Historical,EV stock,Cars,EV,2025,Vehicles,17000000.0
+Europe,Historical,EV sales,Cars,EV,2025,Vehicles,4200000.0
+Europe,Historical,EV stock share,Cars,EV,2025,percent,5.0
+Europe,Historical,EV sales share,Cars,EV,2025,percent,28.0
+Europe,Historical,EV stock,Cars,PHEV,2025,Vehicles,6100000.0
+Europe,Historical,EV stock,Cars,FCEV,2025,Vehicles,5200.0
+Europe,Historical,EV stock,Cars,BEV,2025,Vehicles,11000000.0
+Europe,Historical,EV sales,Cars,PHEV,2025,Vehicles,1400000.0
+Europe,Historical,EV sales,Cars,BEV,2025,Vehicles,2900000.0
+Europe,Historical,EV sales,Cars,FCEV,2025,Vehicles,760.0
+Europe,Historical,Battery deployment,Cars,EV,2025,GWh,230.0
+Europe,Historical,"Oil displacement, Mbd",Cars,EV,2025,Million barrels per day,0.25999999046325684
+Europe,Historical,Oil displacement Mlge,Cars,EV,2025,Million litres gasoline equivalent,15000.0
+Europe,Projection-CPS,EV sales share,Cars,EV,2035,percent,89.0
+Europe,Projection-CPS,EV stock share,Cars,EV,2035,percent,36.0
+Europe,Projection-CPS,Battery deployment,Cars,EV,2035,GWh,1100.0
+Europe,Projection-CPS,EV sales,Cars,BEV,2035,Vehicles,15000000.0
+Europe,Projection-CPS,EV sales,Cars,FCEV,2035,Vehicles,380.0
+Europe,Projection-CPS,EV sales,Cars,PHEV,2035,Vehicles,100000.0
+Europe,Projection-CPS,EV stock,Cars,BEV,2035,Vehicles,100000000.0
+Europe,Projection-CPS,EV stock,Cars,FCEV,2035,Vehicles,6500.0
+Europe,Projection-CPS,EV stock,Cars,PHEV,2035,Vehicles,19000000.0
+Europe,Projection-CPS,Electricity demand,Cars,EV,2035,GWh,310000.0
+Europe,Projection-CPS,Oil displacement Mlge,Cars,EV,2035,Million litres gasoline equivalent,97000.0
+Europe,Projection-CPS,"Oil displacement, Mbd",Cars,EV,2035,Million barrels per day,1.7000000476837158
+Europe,Projection-CPS,EV sales,Cars,EV,2035,Vehicles,15000000.0
+Europe,Projection-CPS,EV stock,Cars,EV,2035,Vehicles,120000000.0
+Europe,Projection-STEPS,EV sales share,Cars,EV,2035,percent,85.0
+Europe,Projection-STEPS,EV stock share,Cars,EV,2035,percent,34.0
+Europe,Projection-STEPS,Battery deployment,Cars,EV,2035,GWh,1100.0
+Europe,Projection-STEPS,EV sales,Cars,BEV,2035,Vehicles,14000000.0
+Europe,Projection-STEPS,EV sales,Cars,FCEV,2035,Vehicles,380.0
+Europe,Projection-STEPS,EV sales,Cars,PHEV,2035,Vehicles,590000.0
+Europe,Projection-STEPS,EV stock,Cars,BEV,2035,Vehicles,93000000.0
+Europe,Projection-STEPS,EV stock,Cars,FCEV,2035,Vehicles,6300.0
+Europe,Projection-STEPS,EV stock,Cars,PHEV,2035,Vehicles,18000000.0
+Europe,Projection-STEPS,Electricity demand,Cars,EV,2035,GWh,290000.0
+Europe,Projection-STEPS,Oil displacement Mlge,Cars,EV,2035,Million litres gasoline equivalent,91000.0
+Europe,Projection-STEPS,"Oil displacement, Mbd",Cars,EV,2035,Million barrels per day,1.600000023841858
+Europe,Projection-STEPS,EV sales,Cars,EV,2035,Vehicles,14000000.0
+Europe,Projection-STEPS,EV stock,Cars,EV,2035,Vehicles,110000000.0
+European Union,Historical,EV stock,Cars,BEV,2010,Vehicles,5100.0
+European Union,Historical,EV stock,Cars,FCEV,2010,Vehicles,6.0
+European Union,Historical,EV stock,Cars,PHEV,2010,Vehicles,19000.0
+European Union,Historical,EV sales,Cars,EV,2010,Vehicles,1200.0
+European Union,Historical,EV stock,Cars,EV,2010,Vehicles,24000.0
+European Union,Historical,EV sales share,Cars,EV,2010,percent,0.009999999776482582
+European Union,Historical,EV stock share,Cars,EV,2010,percent,0.012000000104308128
+European Union,Historical,EV sales,Cars,BEV,2010,Vehicles,1100.0
+European Union,Historical,EV sales,Cars,PHEV,2010,Vehicles,91.0
+European Union,Historical,EV sales,Cars,PHEV,2011,Vehicles,360.0
+European Union,Historical,EV sales,Cars,BEV,2011,Vehicles,7100.0
+European Union,Historical,EV stock share,Cars,EV,2011,percent,0.019999999552965164
+European Union,Historical,EV sales share,Cars,EV,2011,percent,0.06599999964237213
+European Union,Historical,EV stock,Cars,EV,2011,Vehicles,40000.0
+European Union,Historical,EV sales,Cars,EV,2011,Vehicles,7400.0
+European Union,Historical,EV stock,Cars,PHEV,2011,Vehicles,28000.0
+European Union,Historical,EV stock,Cars,FCEV,2011,Vehicles,6.0
+European Union,Historical,EV stock,Cars,BEV,2011,Vehicles,12000.0
+European Union,Historical,EV stock,Cars,BEV,2012,Vehicles,23000.0
+European Union,Historical,EV stock,Cars,FCEV,2012,Vehicles,6.0
+European Union,Historical,EV stock,Cars,PHEV,2012,Vehicles,37000.0
+European Union,Historical,EV sales,Cars,EV,2012,Vehicles,20000.0
+European Union,Historical,EV stock,Cars,EV,2012,Vehicles,60000.0
+European Union,Historical,EV sales share,Cars,EV,2012,percent,0.1899999976158142
+European Union,Historical,EV stock share,Cars,EV,2012,percent,0.028999999165534973
+European Union,Historical,EV sales,Cars,BEV,2012,Vehicles,12000.0
+European Union,Historical,EV sales,Cars,PHEV,2012,Vehicles,7500.0
+European Union,Historical,EV sales,Cars,PHEV,2013,Vehicles,24000.0
+European Union,Historical,EV sales,Cars,FCEV,2013,Vehicles,19.0
+European Union,Historical,EV sales,Cars,BEV,2013,Vehicles,21000.0
+European Union,Historical,EV stock share,Cars,EV,2013,percent,0.04899999871850014
+European Union,Historical,EV sales share,Cars,EV,2013,percent,0.4699999988079071
+European Union,Historical,EV stock,Cars,EV,2013,Vehicles,100000.0
+European Union,Historical,EV sales,Cars,EV,2013,Vehicles,45000.0
+European Union,Historical,EV stock,Cars,PHEV,2013,Vehicles,61000.0
+European Union,Historical,EV stock,Cars,FCEV,2013,Vehicles,9.0
+European Union,Historical,EV stock,Cars,BEV,2013,Vehicles,42000.0
+European Union,Historical,EV stock,Cars,BEV,2014,Vehicles,72000.0
+European Union,Historical,EV stock,Cars,FCEV,2014,Vehicles,27.0
+European Union,Historical,EV stock,Cars,PHEV,2014,Vehicles,85000.0
+European Union,Historical,EV sales,Cars,EV,2014,Vehicles,57000.0
+European Union,Historical,EV stock,Cars,EV,2014,Vehicles,160000.0
+European Union,Historical,EV sales share,Cars,EV,2014,percent,0.5600000023841858
+European Union,Historical,EV stock share,Cars,EV,2014,percent,0.0729999989271164
+European Union,Historical,EV sales,Cars,BEV,2014,Vehicles,33000.0
+European Union,Historical,EV sales,Cars,FCEV,2014,Vehicles,23.0
+European Union,Historical,EV sales,Cars,PHEV,2014,Vehicles,24000.0
+European Union,Historical,EV sales,Cars,PHEV,2015,Vehicles,43000.0
+European Union,Historical,EV sales,Cars,FCEV,2015,Vehicles,170.0
+European Union,Historical,EV sales,Cars,BEV,2015,Vehicles,49000.0
+European Union,Historical,EV stock share,Cars,EV,2015,percent,0.11999999731779099
+European Union,Historical,EV sales share,Cars,EV,2015,percent,0.8199999928474426
+European Union,Historical,EV stock,Cars,EV,2015,Vehicles,270000.0
+European Union,Historical,EV sales,Cars,EV,2015,Vehicles,92000.0
+European Union,Historical,EV stock,Cars,PHEV,2015,Vehicles,150000.0
+European Union,Historical,EV stock,Cars,FCEV,2015,Vehicles,220.0
+European Union,Historical,EV stock,Cars,BEV,2015,Vehicles,120000.0
+European Union,Historical,EV stock,Cars,BEV,2016,Vehicles,160000.0
+European Union,Historical,EV stock,Cars,FCEV,2016,Vehicles,320.0
+European Union,Historical,EV stock,Cars,PHEV,2016,Vehicles,220000.0
+European Union,Historical,EV sales,Cars,EV,2016,Vehicles,140000.0
+European Union,Historical,EV stock,Cars,EV,2016,Vehicles,380000.0
+European Union,Historical,EV sales share,Cars,EV,2016,percent,1.100000023841858
+European Union,Historical,EV stock share,Cars,EV,2016,percent,0.18000000715255737
+European Union,Historical,EV sales,Cars,BEV,2016,Vehicles,54000.0
+European Union,Historical,EV sales,Cars,FCEV,2016,Vehicles,180.0
+European Union,Historical,EV sales,Cars,PHEV,2016,Vehicles,86000.0
+European Union,Historical,EV sales,Cars,PHEV,2017,Vehicles,100000.0
+European Union,Historical,EV sales,Cars,FCEV,2017,Vehicles,270.0
+European Union,Historical,EV sales,Cars,BEV,2017,Vehicles,85000.0
+European Union,Historical,EV stock share,Cars,EV,2017,percent,0.23000000417232513
+European Union,Historical,EV sales share,Cars,EV,2017,percent,1.5
+European Union,Historical,EV stock,Cars,EV,2017,Vehicles,530000.0
+European Union,Historical,EV sales,Cars,EV,2017,Vehicles,190000.0
+European Union,Historical,EV stock,Cars,PHEV,2017,Vehicles,290000.0
+European Union,Historical,EV stock,Cars,FCEV,2017,Vehicles,790.0
+European Union,Historical,EV stock,Cars,BEV,2017,Vehicles,240000.0
+European Union,Historical,EV stock,Cars,BEV,2018,Vehicles,360000.0
+European Union,Historical,EV stock,Cars,FCEV,2018,Vehicles,870.0
+European Union,Historical,EV stock,Cars,PHEV,2018,Vehicles,390000.0
+European Union,Historical,EV sales,Cars,EV,2018,Vehicles,250000.0
+European Union,Historical,EV stock,Cars,EV,2018,Vehicles,750000.0
+European Union,Historical,EV sales share,Cars,EV,2018,percent,1.899999976158142
+European Union,Historical,EV stock share,Cars,EV,2018,percent,0.33000001311302185
+European Union,Historical,EV sales,Cars,BEV,2018,Vehicles,140000.0
+European Union,Historical,EV sales,Cars,FCEV,2018,Vehicles,160.0
+European Union,Historical,EV sales,Cars,PHEV,2018,Vehicles,110000.0
+European Union,Historical,EV sales,Cars,PHEV,2019,Vehicles,140000.0
+European Union,Historical,EV sales,Cars,FCEV,2019,Vehicles,480.0
+European Union,Historical,EV sales,Cars,BEV,2019,Vehicles,250000.0
+European Union,Historical,EV stock share,Cars,EV,2019,percent,0.4699999988079071
+European Union,Historical,EV sales share,Cars,EV,2019,percent,2.9000000953674316
+European Union,Historical,EV stock,Cars,EV,2019,Vehicles,1100000.0
+European Union,Historical,EV sales,Cars,EV,2019,Vehicles,390000.0
+European Union,Historical,EV stock,Cars,PHEV,2019,Vehicles,500000.0
+European Union,Historical,EV stock,Cars,FCEV,2019,Vehicles,1300.0
+European Union,Historical,EV stock,Cars,BEV,2019,Vehicles,590000.0
+European Union,Historical,EV stock,Cars,BEV,2020,Vehicles,1100000.0
+European Union,Historical,EV stock,Cars,FCEV,2020,Vehicles,2100.0
+European Union,Historical,EV stock,Cars,PHEV,2020,Vehicles,1000000.0
+European Union,Historical,EV sales,Cars,EV,2020,Vehicles,1100000.0
+European Union,Historical,EV stock,Cars,EV,2020,Vehicles,2100000.0
+European Union,Historical,EV sales share,Cars,EV,2020,percent,10.0
+European Union,Historical,EV stock share,Cars,EV,2020,percent,0.8999999761581421
+European Union,Historical,EV sales,Cars,BEV,2020,Vehicles,540000.0
+European Union,Historical,EV sales,Cars,FCEV,2020,Vehicles,810.0
+European Union,Historical,EV sales,Cars,PHEV,2020,Vehicles,510000.0
+European Union,Historical,EV sales,Cars,PHEV,2021,Vehicles,870000.0
+European Union,Historical,EV sales,Cars,FCEV,2021,Vehicles,810.0
+European Union,Historical,EV sales,Cars,BEV,2021,Vehicles,890000.0
+European Union,Historical,EV stock share,Cars,EV,2021,percent,1.600000023841858
+European Union,Historical,EV sales share,Cars,EV,2021,percent,18.0
+European Union,Historical,EV stock,Cars,EV,2021,Vehicles,3800000.0
+European Union,Historical,EV sales,Cars,EV,2021,Vehicles,1800000.0
+European Union,Historical,EV stock,Cars,PHEV,2021,Vehicles,1900000.0
+European Union,Historical,EV stock,Cars,FCEV,2021,Vehicles,3000.0
+European Union,Historical,EV stock,Cars,BEV,2021,Vehicles,2000000.0
+European Union,Historical,EV stock,Cars,BEV,2022,Vehicles,3000000.0
+European Union,Historical,EV stock,Cars,FCEV,2022,Vehicles,4000.0
+European Union,Historical,EV stock,Cars,PHEV,2022,Vehicles,2700000.0
+European Union,Historical,EV sales,Cars,EV,2022,Vehicles,2000000.0
+European Union,Historical,EV stock,Cars,EV,2022,Vehicles,5700000.0
+European Union,Historical,EV sales share,Cars,EV,2022,percent,21.0
+European Union,Historical,EV stock share,Cars,EV,2022,percent,2.4000000953674316
+European Union,Historical,EV sales,Cars,BEV,2022,Vehicles,1100000.0
+European Union,Historical,EV sales,Cars,FCEV,2022,Vehicles,1200.0
+European Union,Historical,EV sales,Cars,PHEV,2022,Vehicles,880000.0
+European Union,Historical,EV sales,Cars,PHEV,2023,Vehicles,820000.0
+European Union,Historical,EV sales,Cars,FCEV,2023,Vehicles,810.0
+European Union,Historical,EV sales,Cars,BEV,2023,Vehicles,1600000.0
+European Union,Historical,EV stock share,Cars,EV,2023,percent,3.299999952316284
+European Union,Historical,EV sales share,Cars,EV,2023,percent,22.0
+European Union,Historical,EV stock,Cars,EV,2023,Vehicles,8100000.0
+European Union,Historical,EV sales,Cars,EV,2023,Vehicles,2400000.0
+European Union,Historical,EV stock,Cars,PHEV,2023,Vehicles,3500000.0
+European Union,Historical,EV stock,Cars,FCEV,2023,Vehicles,4400.0
+European Union,Historical,EV stock,Cars,BEV,2023,Vehicles,4600000.0
+European Union,Historical,EV stock,Cars,BEV,2024,Vehicles,5700000.0
+European Union,Historical,EV stock,Cars,FCEV,2024,Vehicles,4600.0
+European Union,Historical,EV stock,Cars,PHEV,2024,Vehicles,4000000.0
+European Union,Historical,EV sales,Cars,EV,2024,Vehicles,2200000.0
+European Union,Historical,EV stock,Cars,EV,2024,Vehicles,9700000.0
+European Union,Historical,EV sales share,Cars,EV,2024,percent,21.0
+European Union,Historical,EV stock share,Cars,EV,2024,percent,4.099999904632568
+European Union,Historical,EV sales,Cars,BEV,2024,Vehicles,1500000.0
+European Union,Historical,EV sales,Cars,FCEV,2024,Vehicles,1100.0
+European Union,Historical,EV sales,Cars,PHEV,2024,Vehicles,770000.0
+European Union,Historical,EV sales,Cars,PHEV,2025,Vehicles,1000000.0
+European Union,Historical,EV sales,Cars,FCEV,2025,Vehicles,760.0
+European Union,Historical,EV sales,Cars,BEV,2025,Vehicles,1900000.0
+European Union,Historical,EV stock share,Cars,EV,2025,percent,5.0
+European Union,Historical,EV sales share,Cars,EV,2025,percent,27.0
+European Union,Historical,EV stock,Cars,EV,2025,Vehicles,12000000.0
+European Union,Historical,EV sales,Cars,EV,2025,Vehicles,2900000.0
+European Union,Historical,EV stock,Cars,PHEV,2025,Vehicles,4700000.0
+European Union,Historical,EV stock,Cars,FCEV,2025,Vehicles,4500.0
+European Union,Historical,EV stock,Cars,BEV,2025,Vehicles,7300000.0

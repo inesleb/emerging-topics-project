@@ -1,0 +1,11 @@
+region,scenario,year,metric,value,qualifier,unit,source
+European Union,Historical,2025,ev_ldv_sales_share,25,around,%,"IEA GEVO 2026, ch. 9, p. 200"
+European Union,STEPS,2030,ev_car_sales,7,around,million vehicles,"IEA GEVO 2026, ch. 9, p. 233 (EU domestic EV demand in 2030)"
+European Union,STEPS,2035,ev_ldv_sales_share,90,over,%,"IEA GEVO 2026, ch. 9, p. 200"
+European Union,STEPS,2035,bev_ldv_sales_share,85,over,%,"IEA GEVO 2026, ch. 9, p. 200"
+European Union,CPS,2035,ev_ldv_sales_share,100,nearly,%,"IEA GEVO 2026, ch. 9, p. 200"
+Europe,OEM targets (low),2030,ev_car_sales_share,55,,%,"IEA GEVO 2026, p. 232"
+Europe,OEM targets (high),2030,ev_car_sales_share,90,,%,"IEA GEVO 2026, p. 232"
+Europe,OEM targets (low),2035,ev_car_sales_share,65,around,%,"IEA GEVO 2026, p. 232"
+Europe,OEM targets (high),2035,ev_car_sales_share,95,over,%,"IEA GEVO 2026, p. 232"
+European Union,Proposal,2035,car_co2_target,11,up to,gCO2/km,"IEA GEVO 2026, Box 9.2, p. 198"

@@ -1,0 +1,5 @@
+period_start,period_end,target_gkm,status,basis,source
+2025,2029,93.6,in force,-15% vs 2021 WLTP baseline (fleet-wide; 2025-2027 compliance averaged over three years),Regulation (EU) 2019/631 as amended by Regulation (EU) 2023/851; 2025-2027 averaging: Regulation (EU) 2025/1214; IEA Global EV Outlook 2026 (ch. 9)
+2030,2034,49.5,in force,-55% vs 2021 WLTP baseline,Regulation (EU) 2019/631 as amended by Regulation (EU) 2023/851; IEA Global EV Outlook 2026 (ch. 9)
+2035,2050,0.0,in force,-100% vs 2021 WLTP baseline,Regulation (EU) 2019/631 as amended by Regulation (EU) 2023/851; IEA Global EV Outlook 2026 (ch. 9)
+2035,2050,11.0,proposal (Dec 2025 Automotive Package),-90% vs 2021 baseline; remainder offset by EU low-carbon steel and e-/biofuel credits,"IEA Global EV Outlook 2026, Box 9.2"
